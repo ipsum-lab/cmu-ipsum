@@ -62,7 +62,7 @@ faculty:
   - name: Vincent Hellendoorn
     position: Chief Culinary Officer
     web: https://www.isri.cmu.edu/people/core-faculty/hellendoorn-vincent.html
-    img: bogdan.jpg
+ #   img: bogdan.jpg
     social:
       - title: envelope #use for email address
         url: mailto:vasilescu@cmu.edu
@@ -75,7 +75,7 @@ affilfaculty:
   - name: Claire Le Goues
     position: Affiliate; CMU, ISR
     web: https://clairelegoues.com
-    img: claire.jpg
+#    img: claire.jpg
     strudel: none
     social:
 #      - title: envelope #use for email address
@@ -88,7 +88,7 @@ affilfaculty:
 grads:
   - name: Aidan Yang
     position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
-    img: hongbo.jpg
+#    img: hongbo.jpg
     social:
       - title: envelope #use for email address
         url: mailto:aidan@cmu.edu
@@ -99,7 +99,7 @@ grads:
    
    - name: Nikitha Rao
     position: PhD Software Engineering, 2021
-    img: jeremy.jpg
+#    img: jeremy.jpg
     social:
 #      - title: envelope #use for email address
 #        url: mailto:jlacomis@cmu.edu
@@ -110,7 +110,7 @@ grads:
         
     - name: Sophia Kolak
     position: PhD Software Engineering, 2021
-    img: jeremy.jpg
+#    img: jeremy.jpg
     social:
 #      - title: envelope #use for email address
 #        url: mailto:jlacomis@cmu.edu
@@ -122,7 +122,7 @@ grads:
         
    - name: Daye Nam
     position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
-    img: daye.jpg
+#    img: daye.jpg
     social:
       - title: envelope #use for email address
         url: mailto:dayen@andrew.cmu.edu
@@ -138,13 +138,5 @@ grads:
 about: "Programma, cura te ipsum!
 The IPSUM lab studies intelligent solutions for software engineering at Carnegie Mellon university. It is lead by Vincent Hellendoorn"
 
-exclude:
-  - README.md
-  - Rakefile
-  - Gemfile
-  - Gemfile.lock
-  - changelog.md
-  - "*.Rmd"
-  - vendor
-  - .travis.yml
+
 
