@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: CMU IPSUM Lab.
+description: "AI for SE research at CMU"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+url: "http://cmu-ipsum.github.io/"
 
 # Build settings
 markdown: kramdown
@@ -58,60 +58,93 @@ tel: +34 8493-4893
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
 # Members information. Shown on About page.
-members:
-  - name: Mark Webber
-    position: CEO
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team01.jpg
+faculty:
+  - name: Vincent Hellendoorn
+    position: Chief Culinary Officer
+    web: https://www.isri.cmu.edu/people/core-faculty/hellendoorn-vincent.html
+    img: bogdan.jpg
     social:
       - title: envelope #use for email address
-        url: mailto:name@domain.com
+        url: mailto:vasilescu@cmu.edu
       - title: twitter
-        url: http://twitter.com/handle
-  - name: Paul Jameson
-    position: Lead Designer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team02.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Laura Sommers
-    position: Lead Developer
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team03.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
-  - name: Martin Blunt
-    position: Marketing
-    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    img: team04.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:name@domain.com
-      - title: twitter
-        url: http://twitter.com/handle
+        url: http://twitter.com/b_vasilescu
+      - title: link
+        url: http://bvasiles.github.io
 
-# Clients information. Shown on Home and About pages.
-clients:
-  - name: dribbble
-    img: client01.png
-  - name: Code is Poetry
-    img: client02.png
-  - name: Vimeo
-    img: client03.png
-  - name: VimeoPro
-    img: client04.png
+affilfaculty:
+  - name: Claire Le Goues
+    position: Affiliate; CMU, ISR
+    web: https://clairelegoues.com
+    img: claire.jpg
+    strudel: none
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:name@domain.com
+      - title: twitter
+        url: https://twitter.com/clegoues
+      - title: link
+        url: https://clairelegoues.com
+
+grads:
+  - name: Aidan Yang
+    position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
+    img: hongbo.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:aidan@cmu.edu
+      - title: twitter
+        url: http://twitter.com/aidanzhyang
+      - title: link
+        url: aidanby.github.io
+   
+   - name: Nikitha Rao
+    position: PhD Software Engineering, 2021
+    img: jeremy.jpg
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:jlacomis@cmu.edu
+#      - title: twitter
+#        url: http://twitter.com/jlacomis
+      - title: link
+        url: https://raonikitha.github.io/
+        
+    - name: Sophia Kolak
+    position: PhD Software Engineering, 2021
+    img: jeremy.jpg
+    social:
+#      - title: envelope #use for email address
+#        url: mailto:jlacomis@cmu.edu
+#      - title: twitter
+#        url: http://twitter.com/jlacomis
+      - title: link
+        url: https://sophiakolak.github.io/
+
+        
+   - name: Daye Nam
+    position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
+    img: daye.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:dayen@andrew.cmu.edu
+#      - title: twitter
+#        url: http://twitter.com/handle
+      - title: link
+        url: https://dayenam.com/
+  
+        
+  
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "Programma, cura te ipsum!
+The IPSUM lab studies intelligent solutions for software engineering at Carnegie Mellon university. It is lead by Vincent Hellendoorn"
 
-# Testimonial content. Shown on Home and About page.
-testimonial:
-    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
+
