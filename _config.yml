@@ -4,7 +4,7 @@
 title: CMU IPSUM Lab.
 description: "AI for SE research at CMU"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
+baseurl: "/cmu-ipsum.github.io" #important: start with /
 url: "http://cmu-ipsum.github.io/"
 
 # Build settings
