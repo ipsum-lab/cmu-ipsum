@@ -60,30 +60,30 @@ tel: +34 8493-4893
 # Members information. Shown on About page.
 faculty:
   - name: Vincent Hellendoorn
-    position: Chief Culinary Officer
+    position: Assistant Professor
     web: https://www.isri.cmu.edu/people/core-faculty/hellendoorn-vincent.html
  #   img: bogdan.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:vasilescu@cmu.edu
-      - title: twitter
-        url: http://twitter.com/b_vasilescu
-      - title: link
-        url: http://bvasiles.github.io
+#     social:
+#       - title: envelope #use for email address
+#         url: mailto:vasilescu@cmu.edu
+#       - title: twitter
+#         url: http://twitter.com/b_vasilescu
+#       - title: link
+#         url: http://bvasiles.github.io
 
-affilfaculty:
-  - name: Claire Le Goues
-    position: Affiliate; CMU, ISR
-    web: https://clairelegoues.com
-#    img: claire.jpg
-    strudel: none
-    social:
-#      - title: envelope #use for email address
-#        url: mailto:name@domain.com
-      - title: twitter
-        url: https://twitter.com/clegoues
-      - title: link
-        url: https://clairelegoues.com
+# affilfaculty:
+#   - name: Claire Le Goues
+#     position: Affiliate; CMU, ISR
+#     web: https://clairelegoues.com
+# #    img: claire.jpg
+#     strudel: none
+#     social:
+# #      - title: envelope #use for email address
+# #        url: mailto:name@domain.com
+#       - title: twitter
+#         url: https://twitter.com/clegoues
+#       - title: link
+#         url: https://clairelegoues.com
 
 # grads:
 #   - name: Aidan Yang
@@ -135,8 +135,7 @@ affilfaculty:
   
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Programma, cura te ipsum!
-The IPSUM lab studies intelligent solutions for software engineering at Carnegie Mellon university. It is lead by Vincent Hellendoorn"
+about: "Programma, cura te ipsum! The IPSUM lab studies intelligent solutions for software engineering at Carnegie Mellon university. It is lead by Vincent Hellendoorn"
 
 
 
