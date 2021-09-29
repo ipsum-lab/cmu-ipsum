@@ -71,7 +71,7 @@ affiliated faculty:
 grads:
   - name: Aidan Yang
     position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
-    web: aidanby@github.io
+    web: https://aidanby@github.io
     img: aidan.jpg
 
 
@@ -88,7 +88,7 @@ grads:
     #     url: https://raonikitha.github.io/
 
     - name: Sophia Kolak
-    position: PhD Software Engineering, 2021
+    position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
     web: https://sophiakolak.github.io/
     img: sophia.jpg
 
