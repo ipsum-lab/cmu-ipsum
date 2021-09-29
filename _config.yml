@@ -74,7 +74,7 @@ affiliated faculty:
     position: Affiliate; CMU, ISR
     web: https://clairelegoues.com
     img: julian.jpg
-    social:
+#    social:
 #      - title: envelope #use for email address
 #        url: mailto:clegoues@andrew.cmu.edu
 #       - title: twitter
