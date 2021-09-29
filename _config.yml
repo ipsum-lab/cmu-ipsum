@@ -61,39 +61,40 @@ faculty:
     position: Assistant Professor
     web: https://www.isri.cmu.edu/people/core-faculty/hellendoorn-vincent.html
     img: vincent.jpg
+
   - name: Claire Le Goues
     position: Associate Professor
     web: https://clairelegoues.com
     img: julian.jpg
 
-grads:
   - name: Aidan Yang
     position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
     web: https://aidanby.github.io
     img: aidan.jpg
+
     - name: Sophia Kolak
     position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
     web: https://sophiakolak.github.io/
     img: sophia.jpg
 
-   # - name: Nikitha Rao
-   #  position: PhD Software Engineering, 2021
-   #  web: https://raonikitha.github.io/
-   #  img: nikitha.jpg
-    # social:
-    #   - title: envelope #use for email address
-    #     url: mailto:jlacomis@cmu.edu
-    #   - title: twitter
-    #     url: http://twitter.com/jlacomis
-    #   - title: link
-    #     url: https://raonikitha.github.io/
+   - name: Nikitha Rao
+    position: PhD Software Engineering, 2021
+    web: https://raonikitha.github.io/
+    img: nikitha.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:jlacomis@cmu.edu
+      - title: twitter
+        url: http://twitter.com/jlacomis
+      - title: link
+        url: https://raonikitha.github.io/
 
 
-   #
-   # - name: Daye Nam
-   #  position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
-   #  web: https://dayenam.com/
-   #  img: daye.jpg
+
+   - name: Daye Nam
+    position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
+    web: https://dayenam.com/
+    img: daye.jpg
 
 
 
