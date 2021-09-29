@@ -63,15 +63,15 @@ faculty:
     img: vincent.jpg
 
   - name: Claire Le Goues
-    position: Affiliate; CMU, ISR
+    position: Associate Professor
     web: https://clairelegoues.com
     img: julian.jpg
 
-# grads:
-#   - name: Aidan Yang
-#     position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
-#     web: https://aidanby@github.io
-#     img: aidan.jpg
+grads:
+  - name: Aidan Yang
+    position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
+    web: https://aidanby@github.io
+    img: aidan.jpg
 #
 #
 #    - name: Nikitha Rao
