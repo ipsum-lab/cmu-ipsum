@@ -73,10 +73,10 @@ grads:
     web: https://aidanby@github.io
     img: aidan.jpg
 
-   - name: Nikitha Rao
-    position: PhD Software Engineering, 2021
-    web: https://raonikitha.github.io/
-    img: nikitha.jpg
+   # - name: Nikitha Rao
+   #  position: PhD Software Engineering, 2021
+   #  web: https://raonikitha.github.io/
+   #  img: nikitha.jpg
     # social:
     #   - title: envelope #use for email address
     #     url: mailto:jlacomis@cmu.edu
