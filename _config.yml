@@ -73,10 +73,10 @@ grads:
     web: https://aidanby.github.io
     img: aidan.jpg
 
-    - name: Sophia Kolak
-    position:
-    web:
-    img:
+    # - name: Sophia Kolak
+    # position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
+    # web: https://sophiakolak.github.io/
+    # img: sophia.jpg
 
    # - name: Nikitha Rao
    #  position: PhD Software Engineering, 2021
