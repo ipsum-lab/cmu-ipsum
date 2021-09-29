@@ -61,38 +61,38 @@ faculty:
     position: Assistant Professor
     web: https://www.isri.cmu.edu/people/core-faculty/hellendoorn-vincent.html
     img: vincent.jpg
-#     social:
-#       - title: envelope #use for email address
-#         url: mailto:vhellendoorn@cmu.edu
-#       - title: twitter
-#         url: http://twitter.com/vhellendoorn
-#       - title: link
-#         url: https://vhellendoorn.github.io/
+    social:
+      - title: envelope #use for email address
+        url: mailto:vhellendoorn@cmu.edu
+      - title: twitter
+        url: http://twitter.com/vhellendoorn
+      - title: link
+        url: https://vhellendoorn.github.io/
 
 affiliated faculty:
   - name: Claire Le Goues
     position: Affiliate; CMU, ISR
     web: https://clairelegoues.com
     img: julian.jpg
-#    social:
-#      - title: envelope #use for email address
-#        url: mailto:clegoues@andrew.cmu.edu
-#       - title: twitter
-#         url: https://twitter.com/clegoues
-#       - title: link
-#         url: https://clairelegoues.com
+   social:
+     - title: envelope #use for email address
+       url: mailto:clegoues@andrew.cmu.edu
+      - title: twitter
+        url: https://twitter.com/clegoues
+      - title: link
+        url: https://clairelegoues.com
 
-# grads:
-#   - name: Aidan Yang
-#     position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
-# #    img: hongbo.jpg
-#     social:
-#       - title: envelope #use for email address
-#         url: mailto:aidan@cmu.edu
-#       - title: twitter
-#         url: http://twitter.com/aidanzhyang
-#       - title: link
-#         url: aidanby.github.io
+grads:
+  - name: Aidan Yang
+    position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
+#    img: hongbo.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:aidan@cmu.edu
+      - title: twitter
+        url: http://twitter.com/aidanzhyang
+      - title: link
+        url: aidanby.github.io
 
 #    - name: Nikitha Rao
 #     position: PhD Software Engineering, 2021
