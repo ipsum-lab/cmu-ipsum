@@ -18,7 +18,7 @@ colors:  #in hex code if not noted else
   secondary: "#384452" #"#33004D"
   link: "#428bca"
   link_hover: "#01b2fe"
-  footer_heading: "#ffffff"
+  footer_heading: "#000000"
   footer_content: "#bfc9d3"
 
 # Making projects separate from posts
@@ -103,13 +103,6 @@ grad:
     position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
     text: <a href="https://dayenam.com/">Webpage</a>
     img: daye.jpg
-
-
-
-
-
-
-
 
 
 
