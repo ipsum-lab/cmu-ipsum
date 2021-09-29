@@ -61,27 +61,26 @@ faculty:
     position: Assistant Professor
     web: https://www.isri.cmu.edu/people/core-faculty/hellendoorn-vincent.html
     img: vincent.jpg
-#     social:
-#       - title: envelope #use for email address
-#         url: mailto:vasilescu@cmu.edu
-#       - title: twitter
-#         url: http://twitter.com/b_vasilescu
-#       - title: link
-#         url: http://bvasiles.github.io
+    social:
+      - title: envelope #use for email address
+        url: mailto:vhellendoorn@cmu.edu
+      - title: twitter
+        url: http://twitter.com/vhellendoorn
+      - title: link
+        url: https://vhellendoorn.github.io/
 
 affiliated faculty:
   - name: Claire Le Goues
     position: Affiliate; CMU, ISR
     web: https://clairelegoues.com
     img: julian.jpg
-    strudel: none
-#     social:
-# #      - title: envelope #use for email address
-# #        url: mailto:name@domain.com
-#       - title: twitter
-#         url: https://twitter.com/clegoues
-#       - title: link
-#         url: https://clairelegoues.com
+    social:
+     - title: envelope #use for email address
+       url: mailto:clegoues@andrew.cmu.edu
+      - title: twitter
+        url: https://twitter.com/clegoues
+      - title: link
+        url: https://clairelegoues.com
 
 # grads:
 #   - name: Aidan Yang
