@@ -48,11 +48,9 @@ social:
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines:
-    - Some Ave, 987,
-    - 23890, New York,
+    - 4665 Forbes Ave,
+    - Pittsburgh, PA,
     - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -62,7 +60,7 @@ faculty:
   - name: Vincent Hellendoorn
     position: Assistant Professor
     web: https://www.isri.cmu.edu/people/core-faculty/hellendoorn-vincent.html
- #   img: bogdan.jpg
+    img: vincent.jpg
 #     social:
 #       - title: envelope #use for email address
 #         url: mailto:vasilescu@cmu.edu
@@ -71,12 +69,12 @@ faculty:
 #       - title: link
 #         url: http://bvasiles.github.io
 
-# affilfaculty:
-#   - name: Claire Le Goues
-#     position: Affiliate; CMU, ISR
-#     web: https://clairelegoues.com
-# #    img: claire.jpg
-#     strudel: none
+affiliated faculty:
+  - name: Claire Le Goues
+    position: Affiliate; CMU, ISR
+    web: https://clairelegoues.com
+    img: julian.jpg
+    strudel: none
 #     social:
 # #      - title: envelope #use for email address
 # #        url: mailto:name@domain.com
@@ -96,7 +94,7 @@ faculty:
 #         url: http://twitter.com/aidanzhyang
 #       - title: link
 #         url: aidanby.github.io
-   
+
 #    - name: Nikitha Rao
 #     position: PhD Software Engineering, 2021
 # #    img: jeremy.jpg
@@ -107,7 +105,7 @@ faculty:
 # #        url: http://twitter.com/jlacomis
 #       - title: link
 #         url: https://raonikitha.github.io/
-        
+
 #     - name: Sophia Kolak
 #     position: PhD Software Engineering, 2021
 # #    img: jeremy.jpg
@@ -119,7 +117,7 @@ faculty:
 #       - title: link
 #         url: https://sophiakolak.github.io/
 
-        
+
 #    - name: Daye Nam
 #     position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
 # #    img: daye.jpg
@@ -130,12 +128,9 @@ faculty:
 # #        url: http://twitter.com/handle
 #       - title: link
 #         url: https://dayenam.com/
-  
-        
-  
+
+
+
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 about: "Programma, cura te ipsum! The IPSUM lab studies intelligent solutions for software engineering at Carnegie Mellon university. It is lead by Vincent Hellendoorn"
-
-
-
