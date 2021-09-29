@@ -59,7 +59,7 @@ address:
 members:
   - name: Vincent Hellendoorn
     position: Assistant Professor
-    web: https://www.isri.cmu.edu/people/core-faculty/hellendoorn-vincent.html
+    #web: https://www.isri.cmu.edu/people/core-faculty/hellendoorn-vincent.html
     img: vincent.jpg
         social:
       - title: envelope #use for email address
@@ -69,7 +69,7 @@ members:
 
   - name: Claire Le Goues
     position: Associate Professor
-    web: https://clairelegoues.com
+    #web: https://clairelegoues.com
     img: julian.jpg
             social:
           - title: envelope #use for email address
@@ -79,7 +79,7 @@ members:
 
   - name: Aidan Yang
     position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
-    web: https://aidanby.github.io
+    #web: https://aidanby.github.io
     img: aidan.jpg
             social:
           - title: envelope #use for email address
@@ -89,7 +89,7 @@ members:
 
     - name: Sophia Kolak
     position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
-    web: https://sophiakolak.github.io
+    #web: https://sophiakolak.github.io
     img: sophia.jpg
             social:
           - title: envelope #use for email address
@@ -99,7 +99,7 @@ members:
 
    - name: Nikitha Rao
     position: PhD Software Engineering, 2021
-    web: https://raonikitha.github.io/
+    #web: https://raonikitha.github.io/
     img: nikitha.jpg
           social:
         - title: envelope #use for email address
@@ -107,7 +107,7 @@ members:
    #
    - name: Daye Nam
     position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
-    web: https://dayenam.com/
+    #web: https://dayenam.com/
     img: daye.jpg
           social:
         - title: envelope #use for email address
