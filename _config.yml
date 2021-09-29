@@ -61,11 +61,11 @@ members:
     position: Assistant Professor
     text: https://www.isri.cmu.edu/people/core-faculty/hellendoorn-vincent.html
     img: vincent.jpg
-        social:
-      - title: envelope #use for email address
-        url: mailto:vhellendoorn@andrew.cmu.edu
-      - title: twitter
-        url: http://twitter.com/vhellendoorn
+      #   social:
+      # - title: envelope #use for email address
+      #   url: mailto:vhellendoorn@andrew.cmu.edu
+      # - title: twitter
+      #   url: http://twitter.com/vhellendoorn
 
   # - name: Claire Le Goues
   #   position: Associate Professor
