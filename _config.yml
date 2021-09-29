@@ -75,6 +75,11 @@ faculty:
 
 grad:
 
+  - name: Sophia Kolak
+  position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
+  text: <a href="https://sophiakolak.github.io">Webpage</a>
+  img: sophia.jpg
+
   - name: Nikitha Rao
     position: PhD Software Engineering, 2021
     text: <a href="https://raonikitha.github.io/">Webpage</a>
@@ -85,10 +90,7 @@ grad:
     text: <a href="https://aidanby.github.io">Webpage</a>
     img: aidan.jpg
 
-    - name: Sophia Kolak
-    position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
-    text: <a href="https://sophiakolak.github.io">Webpage</a>
-    img: sophia.jpg
+
 
    - name: Daye Nam
     position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
