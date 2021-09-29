@@ -88,6 +88,16 @@ aff_faculty:
       - title: twitter
         url: http://twitter.com/rubengmartins
 
+ - name: Jonathan Aldrich
+    position: Professor
+    text: <a href="https://www.cs.cmu.edu/~aldrich/">Webpage</a>
+    img: jonathan.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:jonathan.aldrich@cs.cmu.edu
+      - title: twitter
+        url: http://twitter.com/jaldrichpl
+
 
 grad:
   - name: Aidan Yang
