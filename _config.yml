@@ -19,7 +19,7 @@ colors:  #in hex code if not noted else
   link: "#428bca"
   link_hover: "#01b2fe"
   footer_heading: "#000000"
-  footer_content: "#bfc9d3"
+  footer_content: "#000000"
 
 # Making projects separate from posts
 collections:
@@ -61,49 +61,80 @@ faculty:
     position: Assistant Professor
     text: <a href="https://www.isri.cmu.edu/people/core-faculty/hellendoorn-vincent.html">Webpage</a>
     img: vincent.jpg
-      #   social:
-      # - title: envelope #use for email address
-      #   url: mailto:vhellendoorn@andrew.cmu.edu
-      # - title: twitter
-      #   url: http://twitter.com/vhellendoorn
+    social:
+      - title: envelope #use for email address
+        url: mailto:vhellendoorn@andrew.cmu.edu
+      - title: twitter
+        url: http://twitter.com/vhellendoorn
 
 aff_faculty:
   - name: Claire Le Goues
     position: Associate Professor
     text: <a href="https://clairelegoues.com">Webpage</a>
     img: julian.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:clegoues@andrew.cmu.edu
+      - title: twitter
+        url: http://twitter.com/clegoues
 
   - name: Ruben Martins
     position: Assistant Research Professor
     text: <a href="https://sat-group.github.io/ruben/">Webpage</a>
     img: ruben.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:rubenm@andrew.cmu.edu
+      - title: twitter
+        url: http://twitter.com/rubengmartins
+
 
 grad:
   - name: Aidan Yang
     position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
     text: <a href="https://aidanby.github.io/">Webpage</a>
     img: aidan.jpg
-
+    social:
+      - title: envelope #use for email address
+        url: mailto:aidan@cmu.edu
+      - title: twitter
+        url: http://twitter.com/aidanzhyang
   - name: Luis Gomes
     position: PhD Software Engineering, 2021
     text: <a href="https://www.cmuportugal.org/students/luis-filipe-fernandes-gomes/">Webpage</a>
     img: luis.jpg
-
+    social:
+      - title: envelope #use for email address
+        url: mailto:lfgomes@andrew.cmu.edu
+      # - title: twitter
+      #   url: http://twitter.com/aidanzhyang
   - name: Nikitha Rao
     position: PhD Software Engineering, 2021
     text: <a href="https://raonikitha.github.io/">Webpage</a>
     img: nikitha.jpg
-
+    social:
+      - title: envelope #use for email address
+        url: mailto:nikithar@andrew.cmu.edu
+      # - title: twitter
+      #   url: http://twitter.com/aidanzhyang
   - name: Sophia Kolak
     position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
     text: <a href="https://sophiakolak.github.io">Webpage</a>
     img: sophia.jpg
-
+    social:
+      - title: envelope #use for email address
+        url: mailto:sdkolak@andrew.cmu.edu
+      - title: twitter
+        url: http://twitter.com/kolaksophia
   - name: Daye Nam
     position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
     text: <a href="https://dayenam.com/">Webpage</a>
     img: daye.jpg
-
+    social:
+      - title: envelope #use for email address
+        url: mailto:dayen@andrew.cmu.edu
+      - title: twitter
+        url: http://twitter.com/daye_nam
 
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
