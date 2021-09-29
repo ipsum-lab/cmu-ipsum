@@ -88,7 +88,7 @@ aff_faculty:
       - title: twitter
         url: http://twitter.com/rubengmartins
 
- - name: Jonathan Aldrich
+  - name: Jonathan Aldrich
     position: Professor
     text: <a href="https://www.cs.cmu.edu/~aldrich/">Webpage</a>
     img: jonathan.jpg
