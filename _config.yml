@@ -56,7 +56,7 @@ address:
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
 
 # Members information. Shown on About page.
-members:
+faculty:
   - name: Vincent Hellendoorn
     position: Assistant Professor
     text: <a href="https://www.isri.cmu.edu/people/core-faculty/hellendoorn-vincent.html">Webpage</a>
@@ -77,19 +77,18 @@ members:
     # text: <a href="https://sophiakolak.github.io">Webpage</a>
     # img: sophia.jpg
 
-   # 
+   #
    # - name: Daye Nam
    #  position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
    #  text: <a href="https://dayenam.com/">Webpage</a>
    #  img: daye.jpg
 
+grad:
 
   - name: Nikitha Rao
     position: PhD Software Engineering, 2021
     text: <a href="https://raonikitha.github.io/">Webpage</a>
     img: nikitha.jpg
-
-
 
   - name: Aidan Yang
     position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
