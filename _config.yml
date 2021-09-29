@@ -116,8 +116,13 @@ grad:
     social:
       - title: envelope #use for email address
         url: mailto:lfgomes@andrew.cmu.edu
-      # - title: twitter
-      #   url: http://twitter.com/aidanzhyang
+  - name: Manisha Mukherjee
+    position: PhD Software Engineering, 2021
+    text: <a href="https://www.linkedin.com/in/manisha-mukherjee-18472284">Webpage</a>
+    img: manisha.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:mmukherj@andrew.cmu.edu
   - name: Nikitha Rao
     position: PhD Software Engineering, 2021
     text: <a href="https://raonikitha.github.io/">Webpage</a>
@@ -125,8 +130,6 @@ grad:
     social:
       - title: envelope #use for email address
         url: mailto:nikithar@andrew.cmu.edu
-      # - title: twitter
-      #   url: http://twitter.com/aidanzhyang
   - name: Sophia Kolak
     position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
     text: <a href="https://sophiakolak.github.io">Webpage</a>
