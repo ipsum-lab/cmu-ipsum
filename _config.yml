@@ -71,7 +71,7 @@ aff_faculty:
   - name: Claire Le Goues
     position: Associate Professor
     text: <a href="https://clairelegoues.com">Webpage</a>
-    img: julian.jpg
+    img: claire.jpg
     social:
       - title: envelope #use for email address
         url: mailto:clegoues@andrew.cmu.edu
