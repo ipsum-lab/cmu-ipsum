@@ -61,72 +61,44 @@ faculty:
     position: Assistant Professor
     web: https://www.isri.cmu.edu/people/core-faculty/hellendoorn-vincent.html
     img: vincent.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:vhellendoorn@cmu.edu
-      - title: twitter
-        url: http://twitter.com/vhellendoorn
-      - title: link
-        url: https://vhellendoorn.github.io/
 
 affiliated faculty:
   - name: Claire Le Goues
     position: Affiliate; CMU, ISR
     web: https://clairelegoues.com
     img: julian.jpg
-   social:
-     - title: envelope #use for email address
-       url: mailto:clegoues@andrew.cmu.edu
-      - title: twitter
-        url: https://twitter.com/clegoues
-      - title: link
-        url: https://clairelegoues.com
 
 grads:
   - name: Aidan Yang
     position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
-#    img: hongbo.jpg
-    social:
-      - title: envelope #use for email address
-        url: mailto:aidan@cmu.edu
-      - title: twitter
-        url: http://twitter.com/aidanzhyang
-      - title: link
-        url: aidanby.github.io
-
-#    - name: Nikitha Rao
-#     position: PhD Software Engineering, 2021
-# #    img: jeremy.jpg
-#     social:
-# #      - title: envelope #use for email address
-# #        url: mailto:jlacomis@cmu.edu
-# #      - title: twitter
-# #        url: http://twitter.com/jlacomis
-#       - title: link
-#         url: https://raonikitha.github.io/
-
-#     - name: Sophia Kolak
-#     position: PhD Software Engineering, 2021
-# #    img: jeremy.jpg
-#     social:
-# #      - title: envelope #use for email address
-# #        url: mailto:jlacomis@cmu.edu
-# #      - title: twitter
-# #        url: http://twitter.com/jlacomis
-#       - title: link
-#         url: https://sophiakolak.github.io/
+    web: aidanby@github.io
+    img: aidan.jpg
 
 
-#    - name: Daye Nam
-#     position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
-# #    img: daye.jpg
-#     social:
-#       - title: envelope #use for email address
-#         url: mailto:dayen@andrew.cmu.edu
-# #      - title: twitter
-# #        url: http://twitter.com/handle
-#       - title: link
-#         url: https://dayenam.com/
+   - name: Nikitha Rao
+    position: PhD Software Engineering, 2021
+    web: https://raonikitha.github.io/
+    img: Nikitha.jpg
+    # social:
+    #   - title: envelope #use for email address
+    #     url: mailto:jlacomis@cmu.edu
+    #   - title: twitter
+    #     url: http://twitter.com/jlacomis
+    #   - title: link
+    #     url: https://raonikitha.github.io/
+
+    - name: Sophia Kolak
+    position: PhD Software Engineering, 2021
+    web: https://sophiakolak.github.io/
+    img: sophia.jpg
+
+
+
+   - name: Daye Nam
+    position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
+    web: https://dayenam.com/
+    img: daye.jpg
+
 
 
 
