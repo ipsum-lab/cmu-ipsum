@@ -46,13 +46,12 @@
 </div><! --/row -->
 </div><! --/container -->
 
-
 <div class="container mtb-0">
-	<h3 class="mb-0">Current Graduate Students</h3>
-  	<div class="row">
-    {% for member in site.grads %}
-    {% assign loopindex = forloop.index | modulo: 4 %}
-		{% if loopindex == 0 %}
+        <h3 class="mb-0">PhD Students</h3>
+        <div class="row">
+        {% for member in site.grads %}
+        {% assign loopindex = forloop.index | modulo: 4 %}
+			  {% if loopindex == 0 %}
         <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
             <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
@@ -70,10 +69,10 @@
 <!--             <p>{{ member.text }}</p> -->
 <!--             <div class="hline"></div> -->
         </div><! --/col-lg-3 -->
-    </div><! --/row -->
- 		<div class="row">
-    {% else %}
-    		<div class="col-lg-3 col-md-3 col-sm-3">
+        </div><! --/row -->
+ 				<div class="row">
+        {% else %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
             <div class="he-wrap tpl6">
             <img src="{{ "/assets/img/members/" | prepend: site.baseurl }}{{ member.img }}" alt="">
                 <div class="he-view">
@@ -90,7 +89,7 @@
 <!--             <p>{{ member.text }}</p> -->
 <!--             <div class="hline"></div> -->
         </div><! --/col-lg-3 -->
-    {% endif %}
-    {% endfor %}
+        {% endif %}
+        {% endfor %}
 </div><! --/row -->
 </div><! --/container -->
