@@ -77,11 +77,11 @@ members:
     # text: <a href="https://sophiakolak.github.io">Webpage</a>
     # img: sophia.jpg
 
-   
-   - name: Daye Nam
-    position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
-    text: <a href="https://dayenam.com/">Webpage</a>
-    img: daye.jpg
+   # 
+   # - name: Daye Nam
+   #  position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
+   #  text: <a href="https://dayenam.com/">Webpage</a>
+   #  img: daye.jpg
 
 
   - name: Nikitha Rao
