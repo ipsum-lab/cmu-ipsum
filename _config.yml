@@ -59,7 +59,7 @@ address:
 members:
   - name: Vincent Hellendoorn
     position: Assistant Professor
-    text: https://www.isri.cmu.edu/people/core-faculty/hellendoorn-vincent.html
+    text: <a href="https://www.isri.cmu.edu/people/core-faculty/hellendoorn-vincent.html">Webpage</a>
     img: vincent.jpg
       #   social:
       # - title: envelope #use for email address
@@ -67,20 +67,20 @@ members:
       # - title: twitter
       #   url: http://twitter.com/vhellendoorn
 
-  # - name: Claire Le Goues
-  #   position: Associate Professor
-  #   text: https://clairelegoues.com
-  #   img: julian.jpg
+  - name: Claire Le Goues
+    position: Associate Professor
+    text: <a href="https://clairelegoues.com">Webpage</a>
+    img: julian.jpg
   #           social:
   #         - title: envelope #use for email address
   #           url: mailto:clegoues@andrew.cmu.edu
   #         - title: twitter
   #           url: http://twitter.com/clegoues
   #
-  # - name: Aidan Yang
-  #   position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
-  #   text: https://aidanby.github.io
-  #   img: aidan.jpg
+  - name: Aidan Yang
+    position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
+    text: <a href="https://aidanby.github.io">Webpage</a>
+    img: aidan.jpg
   #           social:
   #         - title: envelope #use for email address
   #           url: mailto:aidan@cmu.edu
