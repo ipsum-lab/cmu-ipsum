@@ -70,44 +70,41 @@ faculty:
 aff_faculty:
 
   - name: Bogdan Vasilescu
-    position: Co-advising Daye
+    position: Co-advising Daye Nam
     web: https://bvasiles.github.io/
     img: bogdan.jpg
     social:
-      - title: envelope #use for email address
+      - title: envelope 
         url: mailto:vasilescu@cmu.edu
       - title: twitter
         url: http://twitter.com/b_vasilescu
 
-
   - name: Claire Le Goues
-    position: Affiliate - co-adivsing Aidan & Sophia
+    position: Affiliate - co-adivsing Aidan Yang & Sophia Kolak
     web: https://clairelegoues.com
     img: claire.jpg
     social:
-      - title: envelope #use for email address
+      - title: envelope 
         url: mailto:clegoues@andrew.cmu.edu
       - title: twitter
         url: http://twitter.com/clegoues
 
   - name: Jonathan Aldrich
-    position: Co-advising Luis
+    position: Co-advising Luis Gomes
     web: https://www.cs.cmu.edu/~aldrich/
     img: jonathan.jpg
     social:
-      - title: envelope #use for email address
+      - title: envelope 
         url: mailto:jonathan.aldrich@cs.cmu.edu
       - title: twitter
         url: http://twitter.com/jaldrichpl
 
-
-
   - name: Ruben Martins
-    position: Co-advising Aidan & Sophia
+    position: Co-advising Aidan Yang & Sophia Kolak
     web: https://sat-group.github.io/ruben/
     img: ruben.jpg
     social:
-      - title: envelope #use for email address
+      - title: envelope 
         url: mailto:rubenm@andrew.cmu.edu
       - title: twitter
         url: http://twitter.com/rubengmartins
