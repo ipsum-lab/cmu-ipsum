@@ -92,7 +92,7 @@ aff_faculty:
   - name: Jonathan Aldrich
     position: ISR; Co-advising Luis Gomes
     web: https://www.cs.cmu.edu/~aldrich/
-    img: jonathan.JPG
+    img: jonathan.jpeg
     social:
       - title: envelope 
         url: mailto:jonathan.aldrich@cs.cmu.edu
