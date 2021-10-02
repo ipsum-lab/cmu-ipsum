@@ -74,7 +74,7 @@ aff_faculty:
     web: https://bvasiles.github.io/
     img: bogdan.jpg
     social:
-      - title: envelope 
+      - title: envelope
         url: mailto:vasilescu@cmu.edu
       - title: twitter
         url: http://twitter.com/b_vasilescu
@@ -84,7 +84,7 @@ aff_faculty:
     web: https://clairelegoues.com
     img: claire.jpg
     social:
-      - title: envelope 
+      - title: envelope
         url: mailto:clegoues@andrew.cmu.edu
       - title: twitter
         url: http://twitter.com/clegoues
@@ -94,7 +94,7 @@ aff_faculty:
     web: https://www.cs.cmu.edu/~aldrich/
     img: jonathan.JPG
     social:
-      - title: envelope 
+      - title: envelope
         url: mailto:jonathan.aldrich@cs.cmu.edu
       - title: twitter
         url: http://twitter.com/jaldrichpl
@@ -104,7 +104,7 @@ aff_faculty:
     web: https://sat-group.github.io/ruben/
     img: ruben.jpg
     social:
-      - title: envelope 
+      - title: envelope
         url: mailto:rubenm@andrew.cmu.edu
       - title: twitter
         url: http://twitter.com/rubengmartins
@@ -113,7 +113,7 @@ aff_faculty:
 
 grad:
   - name: Aidan Yang
-    position: PhD Software Engineering, 2021 (also <a href="https://squareslab.github.io/">SquaresLab</a>)
+    position: PhD Software Engineering, 2021  <br> also <a href="https://squareslab.github.io/">SquaresLab</a>
     web: https://aidanby.github.io/
     img: aidan.jpg
     social:
@@ -122,7 +122,7 @@ grad:
       - title: twitter
         url: http://twitter.com/aidanzhyang
   - name: Luis Gomes
-    position: PhD Software Engineering, 2021 (also <a href="https://www.cs.cmu.edu/~aldrich/">Aldrich group</a>))
+    position: PhD Software Engineering, 2021  <br> also <a href="https://www.cs.cmu.edu/~aldrich/">Aldrich group</a>
     web: https://www.cmuportugal.org/students/luis-filipe-fernandes-gomes/
     img: luis.jpg
     social:
@@ -143,7 +143,7 @@ grad:
       - title: envelope #use for email address
         url: mailto:nikithar@andrew.cmu.edu
   - name: Sophia Kolak
-    position: PhD Software Engineering, 2021 - (also <a href="https://squareslab.github.io/">SquaresLab</a>)
+    position: PhD Software Engineering, 2021 <br> also <a href="https://squareslab.github.io/">SquaresLab</a>
     web: https://sophiakolak.github.io
     img: sophia.jpg
     social:
@@ -152,7 +152,7 @@ grad:
       - title: twitter
         url: http://twitter.com/kolaksophia
   - name: Daye Nam
-    position: PhD Software Engineering, 2018- (also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>)
+    position: PhD Software Engineering, 2018 <br> also <a href="http://www.cs.cmu.edu/~bam/">Myers group</a>
     web: https://dayenam.com/
     img: daye.jpg
     social:
