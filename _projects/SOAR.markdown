@@ -3,7 +3,7 @@ layout: project
 title:  "SOAR: A Synthesis Approach
 for Data Science API Refactoring"
 date:   2021
-authors: Ansong Ni, Daniel Ramos, Aidan Yang, Ines Lynce, Vasco Manquinho, Ruben Martins, Claire Le Goues
+author: Ansong Ni, Daniel Ramos, Aidan Yang, Ines Lynce, Vasco Manquinho, Ruben Martins, Claire Le Goues
 
 img: soar.png
 thumb: thumb02.jpg
